@@ -7,6 +7,23 @@
 
 
 
-/* .panda_bg_warning{
+.panda_bg_warning{
     background-color: #ffa500;
-} */
+}
+.panda_bg_success{
+    background-color: #da70d6;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.panda_btn_buy_now{
+    color: #fff;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+
+
